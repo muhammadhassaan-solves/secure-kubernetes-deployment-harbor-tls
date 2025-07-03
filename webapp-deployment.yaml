@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: webapp-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: webapp
+  template:
+    metadata:
+      labels:
+        app: webapp
+    spec:
+      imagePullSecrets:
+        - name: harbor-secret
+      containers:
+        - name: webapp
+          image: 54.197.171.248/container-lab/webapp:v1.0
+          ports:
+            - containerPort: 80
