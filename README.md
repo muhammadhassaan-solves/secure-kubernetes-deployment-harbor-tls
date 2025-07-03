@@ -4,8 +4,6 @@
 This project showcases a secure end-to-end container deployment to Kubernetes using a self-hosted Harbor registry over HTTPS. It includes TLS certificate generation, Docker and Minikube trust setup, and Kubernetes secret-based authentication. The goal was to demonstrate practical DevOps skills in secure image delivery, private registry integration, and production-ready deployment workflows.
 
 
----
-
 <h2>Tools & Technologies</h2>
 
 - Harbor (Private Registry)
@@ -16,30 +14,30 @@ This project showcases a secure end-to-end container deployment to Kubernetes us
 - YAML + kubectl
 - Ubuntu 24.04
 
----
 
-<h2>Project Walkthrough</h2>
+<h2>Project Walk-through</h2>
 
 <p align="center">
-
 1. Define a Simple Web App <br />
-<img src="https://i.postimg.cc/28L3czzk/1.jpg" height="70%" width="70%" alt="App Build"/>
-<br /><br />
-
-2. Optimize with Multi-Stage Dockerfile <br />
-<img src="https://i.postimg.cc/vZpKrt08/2.jpg" height="70%" width="70%" alt="Docker Optimize"/>
-<br /><br />
-
-3. Push to Harbor Over HTTPS <br/>
-<img src="https://i.postimg.cc/521pq9zG/3.jpg" height="70%" width="70%" alt="Push to Harbor"/>
-<br /><br />
-
+<img src="https://i.postimg.cc/28L3czzk/1.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+2. Optimize with Multi-Stage Dockerfile <br/>
+<img src="https://i.postimg.cc/vZpKrt08/2.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+3. Push to Harbor Over HTTPS  <br/>
+<img src="https://i.postimg.cc/521pq9zG/3.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 4. Deploy to Kubernetes with Private Registry <br/>
-<img src="https://i.postimg.cc/1Xm5rq9X/4.jpg" height="70%" width="70%" alt="Deploy to K8s"/>
-<br /><br />
-
+<img src="https://i.postimg.cc/1Xm5rq9X/4.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 5. Test & Access App via NodePort <br/>
-<img src="https://i.postimg.cc/NMYgQH2D/5.jpg" height="70%" width="70%" alt="Browser Test"/>
-<br /><br />
-
+<img src="https://i.postimg.cc/NMYgQH2D/5.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+  
 </p>
+
