@@ -19,23 +19,23 @@ This project showcases a secure end-to-end container deployment to Kubernetes us
 
 <p align="center">
 1. Define a Simple Web App <br />
-<img src="https://i.postimg.cc/28L3czzk/1.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/28L3czzk/1.jpg"/>
 <br />
 <br />
 2. Optimize with Multi-Stage Dockerfile <br/>
-<img src="https://i.postimg.cc/vZpKrt08/2.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/vZpKrt08/2.jpg" />
 <br />
 <br />
 3. Push to Harbor Over HTTPS  <br/>
-<img src="https://i.postimg.cc/521pq9zG/3.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/521pq9zG/3.jpg"/>
 <br />
 <br />
 4. Deploy to Kubernetes with Private Registry <br/>
-<img src="https://i.postimg.cc/1Xm5rq9X/4.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/1Xm5rq9X/4.jpg" />
 <br />
 <br />
 5. Test & Access App via NodePort <br/>
-<img src="https://i.postimg.cc/NMYgQH2D/5.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/NMYgQH2D/5.jpg" />
 <br />
 <br />
   
